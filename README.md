@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Sunday Ojeka! 👋
 
-<!--
-**Jeksoncolex/Jeksoncolex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛡️ Cybersecurity Student & Aspiring SOC Analyst
+I am passionate about threat detection, incident response, and building secure environments. Currently focusing on blue-team operations and SIEM integrations.
 
-Here are some ideas to get you started:
+- 🔭 **Featured Project:** [Suricata-Wazuh Threat Detection Lab](https://github.com)
+- ⚡ **Skills:** Suricata IDS, Wazuh SIEM, Linux Security, GRC (Governance, Risk, and Compliance)
+- 🎓 **Education:** TS Academy Cyber Security Program
+- 💬 **Ask me about:** My recent lab on VirusTotal API integration!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### 🛠️ Tech Stack & Tools
+![Linux](https://shields.io)
+![Kali Linux](https://shields.io)
+![VS Code](https://shields.io)
+![GitHub](https://shields.io)
+
+
